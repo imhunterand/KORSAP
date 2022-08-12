@@ -26,6 +26,8 @@ Usage
 python3 korsap.py
 ```
 
+[![ALT](https://youtube-md.vercel.app/0gXyyBiX8Ak)](https://www.youtube.com/watch?v=0gXyyBiX8Ak)
+
 # List of Dorks
 Banyak dari dorks dapat dimodifikasi untuk membuat pencarian lebih spesifik atau generik.
 
