@@ -15,7 +15,7 @@ Ada juga fungsi ekspor yang memberikan kemungkinan untuk menyimpan hasil penelit
 **Requirement**
  * Python 3 (Tested with Python 3.8.5)
  * Shodan Account (Premium API key)
-
+ 
 **Installation**
 Clone this repository and run:
 ```
